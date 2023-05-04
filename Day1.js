@@ -1,4 +1,4 @@
-/* 
+//
 1.Write a single line comment which says, comments can make code readable.[EN]
 // Write a single line comment which says. 
 
@@ -140,4 +140,5 @@ let myAge = 22,
 console.log(`Ben ${myAge} yaşındayım.`);
 console.log(`Sen ${yourAge} yaşındasın.`);
 
-*/
+//
+
