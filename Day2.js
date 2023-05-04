@@ -353,8 +353,7 @@ Aşağıdaki metinden sayıları çıkararak kişinin toplam yıllık gelirini h
 
 */
 
-const cumle =
-  "Aylık maaşından 5000 euro, yıllık 10000 euro ikramiye, ayda 15000 euro online kurstan kazanıyor.";
+const y = "Aylık maaşından 5000 euro, yıllık 10000 euro ikramiye, ayda 15000 euro online kurstan kazanıyor.";
 let regEx = /\d+/g;
-const maaslar = cumle.match(regEx);
+const maaslar = y.match(regEx);
 console.log(maaslar[0] * 12 + maaslar[1] + maaslar[2] * 12); // 250000
