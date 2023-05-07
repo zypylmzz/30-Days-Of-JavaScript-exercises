@@ -13,7 +13,7 @@ Clone or download this repository.
 Select the day's challenge and read the Turkish solution.
 
 Contact Information
-If you have any questions or feedback, you can contact me via [email]((zypylmzz@icloud.com)
+If you have any questions or feedback, you can contact me via [email](zypylmzz@icloud.com)
 
 
 ## 30 Günlük JavaScript Dersleri Çözümleri
