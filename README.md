@@ -1,6 +1,6 @@
 # 30-Days-Of-JavaScript-exercises
 
-#30 Days of JavaScript Solutions
+##30 Days of JavaScript Solutions
 This project contains Turkish solutions for the "30 Days of JavaScript" challenge by Asabeneh.
 
 ##Technologies Used
