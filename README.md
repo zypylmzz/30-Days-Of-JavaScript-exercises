@@ -4,7 +4,7 @@
 This project contains Turkish solutions for the "30 Days of JavaScript" challenge by Asabeneh.
 
 ## Technologies Used
--JavaScript
+- JavaScript
 
 ## Installation Instructions
 Clone or download this repository.
@@ -20,7 +20,7 @@ If you have any questions or feedback, you can contact me via [email](zypylmzz@i
 Bu proje, [Asabeneh](@https://github.com/Asabeneh) tarafından sunulan "30 Günlük JavaScript Dersleri" için Türkçe çözümleri içermektedir.
 
 ## Kullanılan Teknolojiler
--JavaScript
+- JavaScript
 
 ## Kurulum Yönergeleri
 Bu repo'yu klonlayın veya indirin.
