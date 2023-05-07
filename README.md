@@ -21,7 +21,7 @@ Bu proje, [Asabeneh](@https://github.com/Asabeneh) tarafından sunulan "30 Günl
 
 ## Kullanılan Teknolojiler
 - JavaScript
--  
+
 ## Kurulum Yönergeleri
 Bu repo'yu klonlayın veya indirin.
 
